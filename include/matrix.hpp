@@ -1,3 +1,4 @@
+// Copyright 2023 Your Name <your@email.tld>
 
 #ifndef INCLUDE_MATRIX_HPP_
 #define INCLUDE_MATRIX_HPP_
